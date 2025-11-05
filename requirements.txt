@@ -1,0 +1,23 @@
+# Web automation and scraping
+selenium
+playwright
+webdriver-manager
+
+# Data analysis and visualization
+numpy
+pandas
+matplotlib
+seaborn
+bokeh
+python-dotenv
+requests
+
+
+# AI / LLM APIs
+google-genai   # this is the Gemini SDK
+openai
+
+# JSON and docstring parsing
+json-parser
+docstring-parser
+
